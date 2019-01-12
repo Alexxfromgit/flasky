@@ -1,3 +1,3 @@
 ## **Flasky**
 
-Web application using Flask, SqlAlchemy
+Web application using Flask, SqlAlchemy, PostgreSQL
