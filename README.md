@@ -1,5 +1,8 @@
-## **Flasky**
+# Flasky
 
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 
-Web application using Flask, SqlAlchemy, PostgreSQL
+## Modules
+1. Flask
+2. SqlAlchemy
+3. PostgreSQL
